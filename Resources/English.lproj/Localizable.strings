@@ -1,0 +1,82 @@
+// InfoViewController.m
+"Application" = "Application";
+"Are you sure to setup Safari's bookmarklet?" = "Are you sure to setup Safari's bookmarklet?";
+"Bookmarklet" = "Bookmarklet";
+"BookmarkletURL" = "http://son-son.sakura.ne.jp/bookmarklet/____hidehere_en.html?javascript:window.location='hidehere://post?url='+escape(window.location)";
+"Contact" = "Contact";
+"Contact, please send unknown bugs or your feedback." = "Contact, please send unknown bugs or your feedback.";
+"Copyright" = "Copyright";
+"Done" = "Done";
+"GoToBookmarklet" = "Bookmarklet to add a stamp";
+"Info" = "Info";
+"License" = "License";
+"Mail with Mail.app" = "Mail with Mail.app";
+"Name" = "Name";
+"Open Safari" = "Open Safari";
+"Open Site with Safari" = "Open Site with Safari";
+"SupportMailAddress" = "yoshida.yuichi@gmail.com";
+"Version" = "Version";
+"Web" = "Web";
+"WebSiteURL" = "http://son-son.sakura.ne.jp/app_store/hidehere_en.html";
+"[hideHere contact] " = "[hideHere contact] ";
+"sonson" = "sonson";
+
+// EditViewController.m
+"AreYouSureExitWithoutSave" = "Are you sure to close without saving?";
+"Cancel" = "Cancel";
+"Close" = "Close";
+"Destruct" = "Close without saving";
+"Edit" = "Edit";
+"Edit:Mosaic" = "Edit:Mosaic";
+"Edit:Stamp" = "Edit:Stamp";
+"Email Photo" = "Email Photo";
+"Error" = "Error";
+"Image has been saved." = "Image has been saved.";
+"OK" = "OK";
+"Open Setting" = "Open Setting";
+"Please fill out twitter acount info on Setting view." = "Please fill out twitter acount info on Setting view.";
+"Save" = "Save";
+"Saving..." = "Saving...";
+"Scroll" = "Scroll";
+"Twitter" = "Twitter";
+"hideHere" = "hideHere";
+"mosaic" = "mosaic";
+"stamp" = "stamp";
+
+// IASKAppSettingsViewController.m
+"Settings" = "Settings";
+
+// StampSelectViewController.m
+"Add new stamp" = "Add new stamp";
+"Edit Stamp" = "Edit Stamp";
+"Input stamp URL" = "Input stamp URL";
+"Loading..." = "Loading...";
+"Select Stamp" = "Select Stamp";
+
+// MosaicScaleSliderView.m
+"Mosaic size %d" = "Mosaic size %d";
+
+// RootViewController.m
+"Camera" = "Camera";
+"Photo Album" = "Photo Album";
+"Saved Photos" = "Saved Photos";
+"Select Source" = "Select Source";
+
+// StampSelectFooterView.m
+"Are you sure to open a bookmarklet instruction page?" = "Are you sure to open a bookmarklet instruction page?";
+"You can add stamp via bookmarklet" = "You can also add a new stamp via bookmarklet. Visit an instruction page by tapping this sentence, if you want to know about that bookmarklet.";
+
+// StampNameEditViewController.m
+"Rename Stamp" = "Rename Stamp";
+
+// TwitPicPostController.m
+"Authenticating..." = "Authenticating...";
+"Tweet" = "Tweet";
+"Tweet(remained %d chars)" = "Tweet(remained %d chars)";
+"TwitPic Error" = "TwitPic Error";
+"Twiting..." = "Twiting...";
+"Uploading..." = "Uploading...";
+
+// Stamp.m
+"Error - stamp" = "Error - stamp";
+"Incorrect stamp image file" = "Incorrect stamp image file";

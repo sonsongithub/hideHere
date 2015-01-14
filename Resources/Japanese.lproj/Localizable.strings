@@ -1,0 +1,82 @@
+// InfoViewController.m
+"Application" = "アプリケーション";
+"Are you sure to setup Safari's bookmarklet?" = "Safariでブックマークレットを開きますか？";
+"Bookmarklet" = "ブックマークレット";
+"BookmarkletURL" = "http://son-son.sakura.ne.jp/bookmarklet/____hidehere.html?javascript:window.location='hidehere://post?url='+escape(window.location)";
+"Contact" = "Contact";
+"Contact, please send unknown bugs or your feedback." = "バグや要望を送ってください．";
+"Copyright" = "著作権";
+"Done" = "完了";
+"GoToBookmarklet" = "スタンプのためのBookmarklet";
+"Info" = "情報";
+"License" = "ライセンス";
+"Mail with Mail.app" = "メール";
+"Name" = "名前";
+"Open Safari" = "Safariで開く";
+"Open Site with Safari" = "Safariで開く";
+"SupportMailAddress" = "yoshida.yuichi@gmail.com";
+"Version" = "バージョン";
+"Web" = "Web";
+"WebSiteURL" = "http://son-son.sakura.ne.jp/app_store/hidehere.html";
+"[hideHere contact] " = "[hideHere contact] ";
+"sonson" = "sonson";
+
+// EditViewController.m
+"AreYouSureExitWithoutSave" = "保存せずに閉じますか？";
+"Cancel" = "キャンセル";
+"Close" = "閉じる";
+"Destruct" = "保存せずに閉じる";
+"Edit" = "編集";
+"Edit:Mosaic" = "編集:モザイク";
+"Edit:Stamp" = "編集:スタンプ";
+"Email Photo" = "メールで送る";
+"Error" = "エラー";
+"Image has been saved." = "保存されました";
+"OK" = "OK";
+"Open Setting" = "設定ビュー";
+"Please fill out twitter acount info on Setting view." = "設定ビューでTwitterのアカウントを設定してください．";
+"Save" = "保存";
+"Saving..." = "保存中...";
+"Scroll" = "スクロール";
+"Twitter" = "Twitter";
+"hideHere" = "hideHere";
+"mosaic" = "モザイク";
+"stamp" = "スタンプ";
+
+// IASKAppSettingsViewController.m
+"Settings" = "Settings";
+
+// StampSelectViewController.m
+"Add new stamp" = "新しいスタンプを追加";
+"Edit Stamp" = "スタンプの編集";
+"Input stamp URL" = "URLを入力してください";
+"Loading..." = "読み込み中...";
+"Select Stamp" = "スタンプの選択";
+
+// MosaicScaleSliderView.m
+"Mosaic size %d" = "モザイクのサイズ %d";
+
+// RootViewController.m
+"Camera" = "カメラ";
+"Photo Album" = "写真アルバム";
+"Saved Photos" = "カメラロール";
+"Select Source" = "リソース選択";
+
+// StampSelectFooterView.m
+"Are you sure to open a bookmarklet instruction page?" = "ブックマークの説明ページをSafariで開きますか？";
+"You can add stamp via bookmarklet" = "ブックマークレットを使っても，スタンプを追加できます．ブックマークレットについて詳しく知りたいときは，この文章をタップして，説明ページを開いてみてください．";
+
+// StampNameEditViewController.m
+"Rename Stamp" = "名前編集";
+
+// TwitPicPostController.m
+"Authenticating..." = "認証中...";
+"Tweet" = "Tweet";
+"Tweet(remained %d chars)" = "Tweet(残り%d文字)";
+"TwitPic Error" = "TwitPicのエラー";
+"Twiting..." = "つぶやき中...";
+"Uploading..." = "アップロード中...";
+
+// Stamp.m
+"Error - stamp" = "スタンプ画像のエラー";
+"Incorrect stamp image file" = "画像ファイルを読み込めませんでした";
